@@ -1,0 +1,5 @@
+.DS_Store
+data_processing/*
+.ipynb_checkpoints
+vevn/*
+.venv/*
