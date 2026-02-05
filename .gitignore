@@ -3,3 +3,4 @@ data_processing/*
 .ipynb_checkpoints
 vevn/*
 .venv/*
+data/*
