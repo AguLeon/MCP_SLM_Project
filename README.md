@@ -59,13 +59,17 @@ Use `start_run_instance_from_volume.ipynb` when working with large models (e.g.,
 3. Creates a persistent bootable volume that survives instance deletion
 4. Recommended for models that won't fit in default instance storage
 
-### Option 3: Deploy on Edge Devices
+--- 
+
+### (Optional) Deploy LLM on Edge Devices
 
 Use `start_edge_llm.ipynb` for edge deployment:
 
 1. Select `CHI@Edge` as your site
 2. Deploys Ollama container on edge hardware
 3. Supports NVIDIA GPU runtime
+
+---
 
 ## Instance Configuration
 
@@ -83,6 +87,8 @@ Use `start_edge_llm.ipynb` for edge deployment:
 |-------|-------------|
 | `CC-Ubuntu24.04` | Ubuntu 24.04 (CPU only) |
 | `CC-Ubuntu24.04-CUDA` | Ubuntu 24.04 with CUDA drivers |
+
+---
 
 ## Post-Instance Setup
 
