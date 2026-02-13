@@ -196,15 +196,15 @@ See [LICENSE](LICENSE) file for details.
 Notebooks adapted from "Hello, Chameleon" by Fraida Fund:
 - [Original Tutorial](https://www.chameleoncloud.org/experiment/share/a10a1b51-51d7-4c6e-ba83-010a5cf759d6)
 
-## Citation
-
-If you use this repository in your research, please cite:
-
-```bibtex
-@misc{mcp_slm_project,
-  title={MCP and SLMs Benchmarking Research Project},
-  author={AguLeon, ARNiroula},
-  year={2026},
-  url={https://github.com/AguLeon/MCP_SLM_Project}
-}
-```
+<!-- ## Citation -->
+<!---->
+<!-- If you use this repository in your research, please cite: -->
+<!---->
+<!-- ```bibtex -->
+<!-- @misc{mcp_slm_project, -->
+<!--   title={MCP and SLMs Benchmarking Research Project}, -->
+<!--   author={AguLeon, ARNiroula}, -->
+<!--   year={2026}, -->
+<!--   url={https://github.com/AguLeon/MCP_SLM_Project} -->
+<!-- } -->
+<!-- ``` -->
