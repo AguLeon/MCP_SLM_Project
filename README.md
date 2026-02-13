@@ -29,7 +29,7 @@ Before using these notebooks, ensure you have:
 
 ### Option 1: Create Instance Directly from Image
 
-Use `start_run_instace_directly.ipynb` for standard deployments:
+Use `start_run_instance_directly.ipynb` for standard deployments:
 
 1. Open the notebook in Chameleon JupyterHub
 2. Select your project and site (default: `KVM@TACC`)
