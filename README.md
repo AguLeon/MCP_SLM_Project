@@ -54,7 +54,7 @@ Use `start_run_instace_directly.ipynb` for standard deployments:
 
 Use `start_run_instance_from_volume.ipynb` when working with large models (e.g., Qwen3-vl:235b):
 
-1. This method provides up to 250GB of storage
+1. This method provides up to 1TB of volume storage (KVM@TACC has a limit of 1TB)
 2. Only available on `KVM@TACC`
 3. Creates a persistent bootable volume that survives instance deletion
 4. Recommended for models that won't fit in default instance storage
