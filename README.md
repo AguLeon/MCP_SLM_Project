@@ -27,7 +27,7 @@ Before using these notebooks, ensure you have:
 
 ## Getting Started
 
-### Option 1: Create Instance Directly from Image
+### Alternative 1: Create Instance Directly from Image
 
 Use `start_run_instance_directly.ipynb` for standard deployments:
 
@@ -50,7 +50,7 @@ Use `start_run_instance_directly.ipynb` for standard deployments:
    ```
 6. Run all cells to create and configure your instance
 
-### Option 2: Create Instance from Volume (Large Models)
+### Alternative 2: Create Instance from Volume (Large Models)
 
 Use `start_run_instance_from_volume.ipynb` when working with large models (e.g., Qwen3-vl:235b):
 
