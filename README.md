@@ -21,7 +21,7 @@ Before using these notebooks, ensure you have:
 .
 ├── README.md
 ├── start_edge_llm.ipynb                    # Deploy LLMs on edge devices (CHI@Edge)
-├── start_run_instace_directly.ipynb        # Create instances from images (KVM@TACC)
+├── start_run_instace_directly.ipynb        # Create instances from images (KVM@TACC, CHI@TACC, CHI@UC)
 └── start_run_instance_from_volume.ipynb    # Create instances from volumes (KVM@TACC)
 ```
 
